@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+	<div style="width:100%;">
+		<div style="width:650px; margin-left: 25px;margin-top: 15px;">
+			<div style="width: 100%;">
+				<p style="font-size:20;margin-left:auto;width:60%;">Chào mừng bạn đến với game <span style="color:red; font-weight:700">Snake's Souls</span></p>
+				<p style="font-size:20;margin-left:auto;width:60%;">Dưới đây là hướng dẫn cho tựa game này.</p>
+			</div>
+
+			<div style="margin-top:25px;">
+				<p style="font-size:18; text-decoration:underline">Hướng dẫn về chế độ chơi:</p>
+				<p style="font-size:15;">Trò chơi có hai chế độ:</p>
+					<ul>
+						<li>Chế độ thường(Normal Mode): Cho phép bạn chơi các màn chơi giống tựa game cổ điển với độ khó tăng dần. Có nút chỉnh để tới các cấp độ kế luôn nếu bạn chán. <span style="color:red; font-size:15;">Và nói thật là bạn có thể quên chế độ này đi. Nó không tồn tại.</span></p>
+						<li>Chế độ boss(Boss Mode): Cho phép bạn đấu với boss với ba độ khó khác nhau, hứa hẹn đem lại cho bạn những cảm giác vô cùng hưng phấn và <span style="color:red; font-size:15;">không hề ức chế.</span></li>
+					</ul>
+			</div>
+
+			<div style="margin-top:25px;">
+				<p style="font-size:18; text-decoration:underline">Hướng dẫn di chuyển:</p>
+					<ul>
+						<li>Phím &uarr; hoặc W: Lên trên</li>
+						<li>Phím &larr; hoặc A: Sang trái</li>
+						<li>Phím &darr; hoặc S: Xuống dưới</li>
+						<li>Phím &rarr; hoặc D: Sang phải</li>
+					</ul>
+				<p style="color:red; font-weight:700; text-decoration:underline">Chú ý: Hãy tắt trình gõ Tiếng Việt và Caps Lock khi chơi.</p>
+			</div>
+				<div style="margin-top:25px;">
+					<p style="font-size:18; text-decoration:underline">Danh sách vật phẩm trên bàn đấu:</p>
+			
+					<table style="border: 1px solid black;margin-top:15px;">
+						<tr style="border: 1px solid black;">
+							<th style="border: 1px solid black;"><img src="{name0}"></th>
+							<th style="border: 1px solid black;text-align:left;padding-left: 5px;"><p><span style="color:red">Tăng độ dài và tăng điểm</span> cho rắn khi ăn. Đồng thời có thể <span style="color:red">giảm HP của boss.</span></p></th>
+						</tr>
+						<tr style="border: 1px solid black;">
+							<th style="border: 1px solid black;"><img src="{name1}"></th>
+							<th style="border: 1px solid black;text-align:left;padding-left: 5px;"><p>Khiến rắn <span style="color:red">di chuyển ngược lại</span> so với bình thường. <span style="color:red">Tăng điểm</span> cho rắn khi ăn. Đồng thời có thể <span style="color:red">giảm HP của boss.</span></p></th>
+						</tr>
+						<tr style="border: 1px solid black;">
+							<th style="border: 1px solid black;"><img src="{name2}"></th>
+							<th style="border: 1px solid black;text-align:left;padding-left: 5px;"><p>Khiến rắn dịch chuyển tới <span style="color:red">hố dịch chuyển</span> còn lại.</p></th>
+						</tr>
+						<tr style="border: 1px solid black;">
+							<th style="border: 1px solid black;"><img src="{name3}"></th>
+							<th style="border: 1px solid black;text-align:left;padding-left: 5px;"><p>Hạ gục rắn nếu <span style="color:red">đánh trúng đầu rắn</span>, đồng thời <span style="color:red">phá hủy</span> một số yếu tố trên bàn đấu.</p></th>
+						</tr>
+						<tr style="border: 1px solid black;">
+							<th style="border: 1px solid black;"><img src="{name4}"></th>
+							<th style="border: 1px solid black;text-align:left;padding-left: 5px;"><p>Hạ gục rắn nếu <span style="color:red">đâm phải</span>.</p></th>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

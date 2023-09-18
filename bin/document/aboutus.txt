@@ -1,0 +1,21 @@
+<html>
+	<div style="width:100%;">
+		<div style="width: 700px; margin-left: 25px;margin-top:25px;">
+			<p style="font-size: 13px;margin-top: 7px;">
+				 Với mong muốn mang lại cho người chơi những trải nghiệm mới mẻ về những trò chơi huyền thoại của quá khứ nhóm mình đã quyết định lựa chọn chủ đề cho bài tập lớn của môn học là tựa game Rắn Săn Mồi. Nhóm chúng mình đã cải thiện lại tựa game theo hướng làm tựa game khó hơn đòi hỏi phản xạ tốc độ, khả năng quan sát và tính toán kỹ càng so với tựa game huyền thoại xưa. Chúng mình đã mang tới chế độ Boss với những kĩ năng khó nhằn của boss liên tục tấn công người chơi trong khi người chơi phải ăn thức ăn trên map để làm giảm máu của boss xuống thấp hơn. Tựa game là sản phẩm đầu tiên của nhóm mình chắn chắn vẫn còn nhiều những thiếu sót rất mong nhận được sự góp ý và phản hồi từ thầy và các bạn.
+			</p>
+			<p style="font-size: 13px;margin-top: 7px;">
+				Nhóm 30 gồm có 5 thành viên:
+			<ol style="font-size: 13px;margin-top: 7px;">
+				<li>Nguyễn Hữu Việt (cố vấn lối chơi, chuyên gia âm thanh) xử lí âm thanh và thiết lập cơ chế. </li>
+				<li>Nguyễn Tùng Dương (chúa tể thuật toán, ông hoàng tự sửa bug) lập trình khung trò chơi, cải thiện thuật toán.</li>
+				<li>Trần Xuân Nam (kẻ hủy diệt đồ họa, người quên ấn nút lưu) phụ trách xử lý hình ảnh, thiết lập màn chơi.</li>
+				<li>Mai Tiến Thành (người suy tư, người kiểm duyệt trò chơi) hậu kiểm trò chơi, kiểm tra hiệu suất.</li>
+				<li>Phạm Gia Khánh (bậc thầy tìm bug, kẻ hủy diệt thiếu dấu) kiểm tra thuật toán, sửa chữa thuật toán.</li>
+			</ol>
+			</p>
+		</div>
+	</div>
+</html>
+
+

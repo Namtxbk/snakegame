@@ -1,0 +1,18 @@
+<html>
+	<div style="width:100%;">
+		<div style="width: 700px; margin-left: 25px;margin-top:25px;">
+			<p style="font-size: 13px;margin-top: 7px;">
+				 Đã hàng ngàn năm trôi qua ở vùng thảo nguyên Cadian, Rondo, linh vật của vùng đất này cũng là chú rắn bảo hộ của nó. Như mọi khi Rondo vẫn đang tận hưởng những tia nắng vào và thưởng thức hoa quả của vùng đất này nhưng thật không may cho Rondo công ty Golden Water đã mua lại thảo nguyên này để thực hiện xây dựng 1 công trường khai thác vàng dưới danh nghĩa 1 công viên nước giải trí. Là linh vật và là 1 cư dân của thảo nguyên rộng lớn này Rondo có trách nghiệm phải chiến đấu và bảo vệ vùng đất này.
+			</p>
+			<p style="font-size: 13px;margin-top: 7px;">
+				Hằng đêm Rondo thường lẻn vào và phá hoại các máy móc xây dựng của công trường này, điều đó đã khiến giám đốc công ty Golden Water rất khó chịu tuy nhiên lão cũng hiểu được rằng Rondo là một linh vật vô cùng có giá trị nếu như có thể bắt giữ được nó. Hiểu được điều này lão quyết định cho dừng việc thi công lại và tiến hành bắt giữ Rondo.
+			</p>
+			<p style="font-size: 13px;margin-top: 7px;">
+				Ban đầu ông ta đặt rất nhiều những cái bẫy lồng phức tạp như những mê cung thả những quả táo vào dụ Rondo song với sự linh hoạt và thông minh của mình Rondo đã ăn hết những quả táo và chỉ để lại cho lão ta những mê cung trống rỗng. Song không vì vậy mà lão ta từ bỏ ông ta đã liên lạc với 1 phù thủy hắc ám cổ quái được cho là có thể tạo ra những mê cung gây ảo ảnh để bắt giữ các sinh vật khác. Khi lão phù thủy Magnus tới đây lão đã bày ra 1 đại trận để bắt giữ Rondo.
+			</p>
+			<p style="font-size: 13px;margin-top: 7px;">
+				Biết rằng Rondo có 1 lớp vẩy vô cùng cứng rắn và không thể bị phá hủy lão quyết định tạo ra 1 mê cung với những chiếc bẫy xuất hiện ngẫu nhiên nhằm làm Rondo bị choàng váng để bắt giữ cậu. Rondo cũng đã tìm ra cách phá giả trận pháp này của lão đó là những quả táo đỏ ngẫu nhiên xuất hiện chính là chìa khóa để phá hủy ảo ảnh này này. Tuy vậy cuộc chiến chắc chắn sẽ là 1 cuộc chiến khó khăn bởi lão phù thủy Magnus có rất nhiều những chiêu trò để bắt giữ Rondo. Liệu rằng bạn có thể giúp Rondo quan sát và chỉ dẫn cậu ấy trong ảo ảnh để chiến thắng lão phù thủy Magnus được??? 
+			</p>
+		</div>
+	</div>
+</html>
